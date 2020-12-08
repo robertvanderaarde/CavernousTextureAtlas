@@ -1,0 +1,8 @@
+{
+  "rows": 10,
+  "cols": 10,
+  "texture_size": 256,
+  "padding_size": 100,
+  "input_folder": "textures/",
+  "output_folder": "atlas/"
+}
